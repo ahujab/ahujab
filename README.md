@@ -1,4 +1,4 @@
-# I'm Barkha 👩🏾‍💻
+# Hi there, I'm Barkha 👩🏾‍💻
 
 <img src="https://github.com/ahujab/ahujab/blob/main/baks.jpg" width="500px">
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -11,7 +11,7 @@ I'm a Software Engineer who is passionate about learning new technologies. Alway
 - Catching up on <a href = "mailto: ahuja.b@northeastern.edu">Send Email</a> :e-mail:
 
 
-I'm Barkha Ahuja, currently living in Boston. I'm a graduate student studying Master's in Computer Systems Engineering at Northeastern University, about to graduate in Dec 2020.
+I'm currently living in Boston. I'm a graduate student studying Master's in Computer Systems Engineering at Northeastern University, about to graduate in Dec 2020.
 
 ## ⚡ Technologies
 Talk to me about
